@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T01:46:55.454Z",
+  "generated_at": "2026-11-17T02:21:04.277Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -26,6 +26,19 @@
       "last_pushed_at": "2026-11-17T01:46:54.779Z",
       "language": "python",
       "lines": 52
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-11-17T02:21:03.666Z",
+      "last_pushed_at": "2026-11-17T02:21:03.666Z",
+      "language": "python",
+      "lines": 38
     }
   }
 }
